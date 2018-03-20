@@ -450,7 +450,7 @@
 <XPD:REF name="Owner">+o7YZciH6kCMQR4QurejmAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[5]" type="UMLOperation" guid="Cm2Q+vPo9ka76OdEVbyNkQAA">
-<XPD:ATTR name="Name" type="string">bullet</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">createBullet</XPD:ATTR>
 <XPD:REF name="Owner">+o7YZciH6kCMQR4QurejmAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[6]" type="UMLOperation" guid="/qz5Or+vWEiDfdQ4xjl1IwAA">
